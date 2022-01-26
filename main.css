@@ -19,3 +19,20 @@ header div a:hover {
 .link:hover {
     background-color: black;
 }
+
+.link a {
+    text-transform: uppercase;
+}
+
+label {
+    font-size: 14px;
+}
+
+.form-gr {
+    border: 1px solid rgb(199, 199, 199);
+    border-radius: 1rem;
+}
+
+button {
+    color: white !important;
+}
